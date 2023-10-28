@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0APZKv3bEuZJesXoR2JSftMbR2a4rclpKCMPyK3CJh4=",
+  "Source": "API-Restfull",
+  "BasePath": "_content/API-Restfull",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
